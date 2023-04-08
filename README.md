@@ -2,7 +2,7 @@
 <h3 align="center">16 Yaşında Temel Bir Coder</h3>
  <img src="https://komarev.com/ghpvc/?username=lmshro&label=Ziyaretçi%20Sayısı&color=da004e" alt="Arda" />
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/993595915220832316)](https://discord.com/users/993595915220832316)
+[![My Profile](https://lanyard.cnrad.dev/api/993595915220832316)](https://discord.com/users/993595915220832316)
 </p>
 
 
