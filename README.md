@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba Arkadaşlar Adım Arda</h1>
 <h3 align="center">16 Yaşında Temel Bir Coder</h3>
- <img src="https://komarev.com/ghpvc/?username=lmshro&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial" />
+ <img src="https://komarev.com/ghpvc/?username=lmshro&label=Ziyaretçi%20Sayısı&color=da004e" alt="Arda" />
  
 [![My Profile](https://lanyard-profile-readme.vercel.app/api/993595915220832316?hideDiscrim=true)](https://discord.com/users/993595915220832316)
 </p>
@@ -23,6 +23,6 @@
 
 <br/>
 <a href="https://github.com/approval-denial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=approval-denial&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmshro&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmshro&theme=dark&layout=compact" />
 </a>
